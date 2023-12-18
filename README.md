@@ -2,7 +2,7 @@ To fulfill the requirements of this Pandas Challenge, I applied the skills acqui
 1. Using the ‘pd.cut’ function to categorize spending into bins
 2. Editing my code to fix my school-size dataframe, as my initial code incorrectly categorized every school as small.
    
-The following files can be found in the ‘PyCity Schools’ folder:
+The following files can be found in the ‘PyCitySchools’ folder of this repo:
 1. The Jupyter Notebook file (.ipynb) where I practiced my code
 2. My final Python file (.py)
 3. My written report (.docx), summarizing my analysis
