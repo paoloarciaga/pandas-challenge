@@ -5,4 +5,4 @@ To fulfill the requirements of this Pandas Challenge, I applied the skills acqui
 The following files can be found in the ‘PyCity Schools’ folder:
 1. The Jupyter Notebook file (.ipynb) where I practiced my code
 2. My final Python file (.py)
-3. My written report, summarizing my analysis
+3. My written report (.docx), summarizing my analysis
