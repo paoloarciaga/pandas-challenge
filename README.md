@@ -6,3 +6,5 @@ The following files can be found in the ‘PyCitySchools’ folder of this repo:
 1. The Jupyter Notebook file (.ipynb) where I practiced my code
 2. My final Python file (.py)
 3. My written report (.docx), summarizing my analysis
+
+Within the ‘Resources’ folder of this repo, you will find both csv files that I ultimately stored into Pandas DataFrames and merged into a single dataset in order to conduct my analysis. 
