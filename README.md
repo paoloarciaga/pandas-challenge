@@ -1,4 +1,4 @@
-#Pandas Challenge
+##Pandas Challenge
 
 To fulfill the requirements of this Pandas Challenge, I applied the skills acquired from class to develop my initial code. Additionally, I consulted my tutor for further assistance, aming to troubleshoot my code and verify the functionality of it. My tutor was able to help me with the following parts of my code:
 1. Using the ‘pd.cut’ function to categorize spending into bins
