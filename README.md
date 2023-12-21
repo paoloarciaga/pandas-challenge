@@ -1,4 +1,4 @@
-# Pandas-Challenge
+# Data Analysis with Python: Pandas-Challenge
 
 In order to analyze the district-wide standardized test results, I was given access to every student's math and reading scores, as well as various information on the schools they attended. I aggregated the data to showcase obvious trends in school performance by using Pandas. 
 
